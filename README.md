@@ -1,5 +1,6 @@
 # AwesomeDCjanus
-DCjanus is awesome
+
+> DCjanus, light of my life, fire of my loins. My sin, my soul.
 
 ## Users
 
@@ -8,5 +9,7 @@ DCjanus is awesome
 [<img src="https://avatars1.githubusercontent.com/u/46739428?s=460&v=4" width="100px;"/><br /><sub><b>DCjonus</b></sub>](https://github.com/DCjonus) |
 | --- | --- | --- |
 
-## Collections
+## Official Links
+
 - [Favorite of DCjanus](https://t.me/favorites_of_dcjanus)
+- [DC的工具箱](https://blog.dcjanus.com/)
