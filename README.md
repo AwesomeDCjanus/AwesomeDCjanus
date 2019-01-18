@@ -1,5 +1,9 @@
 # AwesomeDCjanus
 
+ [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+
+A curated list of amazingly DCjanus.
+
 > DCjanus, light of my life, fire of my loins. My sin, my soul.
 
 ## Users
